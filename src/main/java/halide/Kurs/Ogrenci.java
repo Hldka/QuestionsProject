@@ -12,6 +12,12 @@ public class Ogrenci {//  1- fieldları ad, soyad, yas olan bir Ogrenci sınıf�
     private String ad;
     private String soyad;
     private int yas;
+    public Ogrenci(String ad, String soyad, int yas){
+setAd(ad);
+setSoyad(soyad);
+setYas(yas);
+
+    }
 
     public void setAd(String ad) {
         this.ad = ad;
@@ -38,13 +44,10 @@ public class Ogrenci {//  1- fieldları ad, soyad, yas olan bir Ogrenci sınıf�
         return yas;
     }
 
-    @Override
+
+
+     @Override
     public String toString() {
         return "Ogrenci{" +"ad="+ad+" \b "+",soyad="+soyad+" \b "+",yas="+yas+'}';
-    }
-
-    public Ogrenci(String ad, String soyad, int yas){
-
-
     }
 }
