@@ -1,4 +1,4 @@
-package halide.encapsulationSorusu01;
+package halide.bank_project;
 
 public class AccountRunner { public static void main(String[] args) {
     Account baba=new Account();

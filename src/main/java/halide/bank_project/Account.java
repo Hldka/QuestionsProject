@@ -1,4 +1,4 @@
-package halide.encapsulationSorusu01;
+package halide.bank_project;
 
 import java.util.Scanner;
 

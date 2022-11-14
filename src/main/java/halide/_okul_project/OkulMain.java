@@ -1,4 +1,4 @@
-package halide.Kurs;
+package halide._okul_project;
 
 import java.util.ArrayList;
 import java.util.Scanner;

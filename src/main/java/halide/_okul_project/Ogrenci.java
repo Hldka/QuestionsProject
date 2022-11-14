@@ -1,4 +1,4 @@
-package halide.Kurs;
+package halide._okul_project;
 
 public class Ogrenci {//  1- fieldları ad, soyad, yas olan bir Ogrenci sınıfı tanımlayınız.
     //  2- Ogrenci sınıfına ad, soyad  ve yas dan oluşan bir consructor tanımlayınız.
