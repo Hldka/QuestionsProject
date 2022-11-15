@@ -1,4 +1,4 @@
-package halide.Atmugulamasi;
+package halide.atmugulamasi;
 
 public class atmauglumasi_task { /*
  * ATM uygulaması yapınız.

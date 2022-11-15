@@ -28,7 +28,7 @@ setYas(yas);
     }
 
     public void setYas(int yas) {
-        if (yas>15) throw new RuntimeException("Kayit icin yas siniri 15 dir");
+        if (yas>15) {throw new RuntimeException("Kayit icin yas siniri 15 dir");}
         this.yas = yas;
     }
 

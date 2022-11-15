@@ -1,4 +1,4 @@
-package halide.Bakkal_project;
+package halide.bakkal_project;
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;

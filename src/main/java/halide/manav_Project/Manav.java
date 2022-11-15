@@ -1,4 +1,4 @@
-package halide.Manav_Project;
+package halide.manav_Project;
 
 import java.util.ArrayList;
 import java.util.Arrays;
