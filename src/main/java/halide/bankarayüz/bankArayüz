@@ -1,0 +1,11 @@
+/*
+                Internet Banka Arayüzü
+Kullanicici Personel ve Müsteri girisi yapabilecegi bir web arayuzu karsilasin.
+(sifre kontrol mekanizmasina gerek yok. Personelin veya müsterinin o asamayi gectigini kabul ediyoruz)
+Personel: a)Tüm müsterileri görebilir
+          b)Yeni müsteriler ekleyebilir.
+          c)Müsteri silebilir.
+Müsteri : 1.)Bakiyesini görebilir.
+          2.)Para yatirabilir.
+          3.)Para cekebilir
+ */

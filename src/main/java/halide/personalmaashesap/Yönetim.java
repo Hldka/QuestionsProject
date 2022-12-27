@@ -5,6 +5,7 @@ public class Yönetim { public static void main(String[] args) {
 pers1.netMaasGöster();
     Personel pers2=new Personel("Ridvan ",3000,30,2010);
     pers2.netMaasGöster();
+    System.out.printf("");
 
 }
 }
